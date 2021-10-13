@@ -1,4 +1,4 @@
-rootProject.name = "AD-Capital"
+rootProject.name = "AD-Capital-demo"
 include "Portal"
 include "Processor"
 include "Verification"
